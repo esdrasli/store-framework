@@ -8,7 +8,7 @@
     "props":{
       "text": "**HELLO WORLD**",
       "textAlignment": "RIGHT",
-      "textPosition": "CENTER",
+      "textPosition": "RIGHT",
       "textColor": "c-on-emphasis",
       "font": "t-heading-5"
     }
