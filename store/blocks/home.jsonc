@@ -3,13 +3,14 @@
     "blocks": [
       "rich-text"
     ]
-
   },
-
   "rich-text":{
     "props":{
       "text": "**HELLO WORLD**",
-      "text-position": "RIGHT" 
+      "textAlignment": "RIGHT",
+      "textPosition": "CENTER",
+      "textColor": "c-on-emphasis",
+      "font": "t-heading-5"
     }
   }
 }
